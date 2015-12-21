@@ -1,2 +1,2 @@
 # FETR-Demo
-Programmes
+Programs
